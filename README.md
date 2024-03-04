@@ -1,4 +1,4 @@
-## :computer: CSCI 5722: Computer Vision Image Processing Challenge
+## :computer: Computer Vision Image Processing Challenge
 
 In the realm of Computer Vision and Image Processing, mastering the fundamental tasks is essential for building a strong foundation in the field. Currently enrolled in CSCI 5722 Graduate Level Computer Vision course at CU Boulder, I have implemented these tasks without the use of image processing libraries such as OpenCV and only performed mathematical manipulations of the image arrays utilising Numpy and PIL(Python Imaging Library) . This extra effort is motivated by the desire to delve into the intricacies of Computer Vision from the ground up, fostering a deeper understanding and intuition for the underlying principles.
 
